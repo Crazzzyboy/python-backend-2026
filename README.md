@@ -1,1 +1,25 @@
-# python-backend-2026
+# Репозиторий для домашних заданий по курсу "Python Backend"
+
+В этом репозитории будут размещены домашние задания по курсу "Python Backend".
+
+## 🚀 Как начать работу
+
+### 1. Форкните репозиторий
+1. Перейдите на страницу репозитория GitHub
+2. Нажмите кнопку "Fork" в правом верхнем углу
+3. Выберите свой аккаунт GitHub для создания форка
+
+### 2. Склонируйте свой форк
+```bash
+git clone https://github.com/ВАШ_USERNAME/python-backend-2026.git
+cd python-backend-2026
+```
+
+### 3. Полезные ссылки курса
+
+- [Репозиторий с примерами](https://github.com/L1mple/python-backend-2026) -
+  вы уже тут
+- [Лекции в
+  pdf](https://drive.google.com/drive/folders/1A8rFJ7kNq9CwpWkELyjNvny550dUOMw_?usp=drive_link)
+  (так же будут постепенно подгружаться)
+- [Оценки и домашки](https://docs.google.com/spreadsheets/d/1PNxseoY3KyzFNavTBwNDoOSuVKc79Zt6U4LUr2zB53Y/edit?usp=sharing)
